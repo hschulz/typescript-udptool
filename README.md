@@ -16,14 +16,6 @@ Used to broadcast IPv4 UDP data.
 
 ---
 
-## Installation
-
-```shell
-npm i @haukeschulz/typescript-udptool
-```
-
----
-
 ## Usage
 
 A small example code snippet showing possible use cases.
